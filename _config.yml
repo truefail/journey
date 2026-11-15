@@ -1,0 +1,8 @@
+remote_theme: "csswitch/jekyll-galaxy-theme-old"
+plugins:
+  - jekyll-remote-theme
+
+title: "Journey"
+description: "2026/11/15~"
+baseurl: "/journey"
+url: "https://github.io"
