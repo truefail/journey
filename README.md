@@ -1,2 +1,18 @@
 # journey
-2026/11/15~
+2026/11/16 ~ ???
+
+AI Conscious entity Project
+
+Long-term memory
+Categorizes memories into episodic (past events/feelings) and semantic (user preferences/profile).
+Uses importance weighting to store key emotional or frequent interactions longer (e.g., via a Vector DB).
+
+Emotional Quotient (EQ) & Decay
+Tracks emotional states (e.g., Sadness +50) and influences the AI's tone.
+Features Emotional Decay: Emotions naturally fade back to neutral over time (like human resilience, e.g., gradually decreasing over 24–48 hours) modulated by the character's personality.
+p.s refer to real human (social experiment)
+
+3D Avatar & Voice
+Connect emotional state to the 3D avartar's facial expression, voice tone, etc.
+3D Avatar : MetaHuman
+Voice : Voice Cloning
